@@ -4,11 +4,17 @@
 
 ## Install
 
-Add this marketplace in Claude Code:
+**Step 1: Add the marketplace**
+```bash
+claude plugins marketplace add Join-Ground-AI/retention-marketplace
+```
 
+**Step 2: Install the plugin**
+```bash
+claude plugins install retention-marketing-skills@ground-retention
 ```
-Join-Ground-AI/retention-marketplace
-```
+
+That's it. All 13 skills are now available — just describe what you need in plain English.
 
 ## What's Inside
 
