@@ -1,5 +1,5 @@
 {
-  "name": "ground-retention",
+  "name": "Ground-Retention-Skills",
   "owner": {
     "name": "Ground",
     "url": "https://joinground.com"
@@ -7,11 +7,11 @@
   "metadata": {
     "description": "AI-powered email & SMS retention workflows for DTC and ecommerce teams by Ground",
     "version": "1.0.0",
-    "repository": "https://github.com/Join-Ground-AI/retention-marketplace"
+    "repository": "https://github.com/Join-Ground-AI/Ground-Retention-Skills"
   },
   "plugins": [
     {
-      "name": "retention-marketing-skills",
+      "name": "Ground-Retention-Skills",
       "description": "13 AI workflow systems for email/SMS flow auditing, segmentation, abandonment recovery, winback, SMS strategy, campaign planning, and performance optimization.",
       "source": "./",
       "skills": [

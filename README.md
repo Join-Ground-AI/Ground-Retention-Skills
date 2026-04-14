@@ -1,4 +1,4 @@
-# Email & SMS Retention Skills — by Ground
+# Ground Retention Skills for Ecommerce
 
 13 AI-powered retention workflows for DTC and ecommerce teams. Built for heads of lifecycle marketing, retention, and ecommerce.
 
@@ -6,12 +6,12 @@
 
 **Step 1: Add the marketplace**
 ```bash
-claude plugins marketplace add Join-Ground-AI/retention-marketplace
+claude plugins marketplace add Join-Ground-AI/Ground-Retention-Skills
 ```
 
 **Step 2: Install the plugin**
 ```bash
-claude plugins install retention-marketing-skills@ground-retention
+claude plugins install Ground-Retention-Skills@Ground-Retention-Skills
 ```
 
 That's it. All 13 skills are now available — just describe what you need in plain English.
