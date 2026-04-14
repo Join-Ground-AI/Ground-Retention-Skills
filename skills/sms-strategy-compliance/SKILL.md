@@ -1,11 +1,12 @@
 ---
 name: sms-strategy-compliance
-description: >
-  Build SMS marketing strategy and ensure compliance for DTC ecommerce brands. Use this skill when
-  someone wants to start SMS marketing, optimize SMS strategy, check SMS compliance, write SMS copy,
-  or figure out when to text vs email. Also trigger when someone mentions "SMS marketing", "SMS strategy",
-  "text message marketing", "TCPA", "SMS compliance", "SMS copy", "Postscript", "Attentive SMS",
-  "Klaviyo SMS", "SMS opt-in", "quiet hours", or "SMS frequency".
+description: Build SMS marketing strategy and ensure compliance for DTC ecommerce brands. Use this skill when someone wants to start SMS marketing, optimize SMS strategy, check SMS compliance, write SMS copy, or figure out when to text vs email. Also trigger when someone mentions "SMS marketing", "SMS strategy", "text message marketing", "TCPA", "SMS compliance", "SMS copy", "Postscript", "Attentive SMS", "Klaviyo SMS", "SMS opt-in", "quiet hours", or "SMS frequency".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # SMS Strategy & Compliance

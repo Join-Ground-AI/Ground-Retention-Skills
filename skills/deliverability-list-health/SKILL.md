@@ -1,11 +1,12 @@
 ---
 name: deliverability-list-health
-description: >
-  Audit email deliverability and list health for DTC ecommerce brands. Use this skill when someone
-  wants to check their sender reputation, fix deliverability issues, clean their email list, review
-  authentication setup, or understand why emails go to spam. Also trigger when someone mentions
-  "deliverability", "spam", "inbox placement", "sender reputation", "list hygiene", "bounce rate",
-  "DMARC", "SPF", "DKIM", "email authentication", "list cleaning", or "going to spam".
+description: Audit email deliverability and list health for DTC ecommerce brands. Use this skill when someone wants to check their sender reputation, fix deliverability issues, clean their email list, review authentication setup, or understand why emails go to spam. Also trigger when someone mentions "deliverability", "spam", "inbox placement", "sender reputation", "list hygiene", "bounce rate", "DMARC", "SPF", "DKIM", "email authentication", "list cleaning", or "going to spam".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Deliverability & List Health Auditor

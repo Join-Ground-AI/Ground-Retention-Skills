@@ -1,11 +1,12 @@
 ---
 name: flow-builder-drafter
-description: >
-  Build and draft complete email/SMS flows for DTC ecommerce brands. Use this skill when someone wants
-  to create a new email flow, draft an SMS sequence, build an automation, write flow copy, or design
-  a trigger-based sequence. Also trigger when someone mentions "build a flow", "draft a flow",
-  "create email sequence", "SMS automation", "write flow emails", "Klaviyo flow", "new automation",
-  "cart abandonment flow", "welcome flow", "post-purchase flow", or "winback flow".
+description: Build and draft complete email/SMS flows for DTC ecommerce brands. Use this skill when someone wants to create a new email flow, draft an SMS sequence, build an automation, write flow copy, or design a trigger-based sequence. Also trigger when someone mentions "build a flow", "draft a flow", "create email sequence", "SMS automation", "write flow emails", "Klaviyo flow", "new automation", "cart abandonment flow", "welcome flow", "post-purchase flow", or "winback flow".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Flow Builder & Drafter

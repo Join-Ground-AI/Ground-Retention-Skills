@@ -1,11 +1,12 @@
 ---
 name: personalization-engine
-description: >
-  Add personalization layers to email and SMS flows for DTC ecommerce brands. Use this skill when
-  someone wants to personalize their flows, add dynamic content, create conditional email blocks,
-  build product recommendation logic, or make flows smarter based on customer behavior. Also trigger
-  when someone mentions "personalization", "dynamic content", "conditional content", "product
-  recommendations", "personalized emails", "behavioral targeting", or "smart content blocks".
+description: Add personalization layers to email and SMS flows for DTC ecommerce brands. Use this skill when someone wants to personalize their flows, add dynamic content, create conditional email blocks, build product recommendation logic, or make flows smarter based on customer behavior. Also trigger when someone mentions "personalization", "dynamic content", "conditional content", "product recommendations", "personalized emails", "behavioral targeting", or "smart content blocks".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Personalization Engine

@@ -1,11 +1,12 @@
 ---
 name: campaign-calendar-planner
-description: >
-  Plan monthly email and SMS campaign calendars for DTC ecommerce brands. Use this skill when someone
-  wants to plan their email calendar, schedule campaigns, balance promotional vs value content, plan
-  around holidays, or manage send frequency. Also trigger when someone mentions "email calendar",
-  "campaign calendar", "send schedule", "promotional calendar", "content calendar for email",
-  "BFCM planning", "holiday email plan", or "how often should I email".
+description: Plan monthly email and SMS campaign calendars for DTC ecommerce brands. Use this skill when someone wants to plan their email calendar, schedule campaigns, balance promotional vs value content, plan around holidays, or manage send frequency. Also trigger when someone mentions "email calendar", "campaign calendar", "send schedule", "promotional calendar", "content calendar for email", "BFCM planning", "holiday email plan", or "how often should I email".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Campaign Calendar Planner

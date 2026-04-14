@@ -1,11 +1,12 @@
 ---
 name: customer-journey-mapper
-description: >
-  Map customer journeys and identify automation opportunities for DTC ecommerce brands. Use this skill
-  when someone wants to understand their customer journey, find cross-sell moments, map purchase paths,
-  identify where to add automations, or discover flows they haven't built yet. Also trigger when someone
-  mentions "customer journey", "journey mapping", "purchase path", "cross-sell opportunities", "upsell
-  moments", "product affinity", "user journey", or "lifecycle mapping".
+description: Map customer journeys and identify automation opportunities for DTC ecommerce brands. Use this skill when someone wants to understand their customer journey, find cross-sell moments, map purchase paths, identify where to add automations, or discover flows they haven't built yet. Also trigger when someone mentions "customer journey", "journey mapping", "purchase path", "cross-sell opportunities", "upsell moments", "product affinity", "user journey", or "lifecycle mapping".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Customer Journey Mapper

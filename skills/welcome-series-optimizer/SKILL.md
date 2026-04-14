@@ -1,11 +1,12 @@
 ---
 name: welcome-series-optimizer
-description: >
-  Optimize welcome email and SMS series for DTC ecommerce brands. Use this skill when someone wants
-  to improve their welcome flow, split their welcome by customer type, fix their welcome emails,
-  increase welcome series conversion, or redesign their onboarding sequence. Also trigger when someone
-  mentions "welcome flow", "welcome series", "welcome email optimization", "new subscriber flow",
-  "first-time buyer email", "welcome conversion", or "onboarding emails".
+description: Optimize welcome email and SMS series for DTC ecommerce brands. Use this skill when someone wants to improve their welcome flow, split their welcome by customer type, fix their welcome emails, increase welcome series conversion, or redesign their onboarding sequence. Also trigger when someone mentions "welcome flow", "welcome series", "welcome email optimization", "new subscriber flow", "first-time buyer email", "welcome conversion", or "onboarding emails".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Welcome Series Optimizer

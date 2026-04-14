@@ -1,11 +1,12 @@
 ---
 name: flow-performance-reviewer
-description: >
-  Review and optimize email/SMS flow performance for DTC ecommerce brands. Use this skill when someone
-  wants to analyze flow metrics, check what's working, identify underperforming flows, benchmark against
-  industry standards, or do a monthly flow review. Also trigger when someone mentions "flow performance",
-  "flow metrics", "email analytics", "flow review", "what's working", "underperforming flows",
-  "open rates", "conversion rates", "revenue per recipient", or "monthly review".
+description: Review and optimize email/SMS flow performance for DTC ecommerce brands. Use this skill when someone wants to analyze flow metrics, check what's working, identify underperforming flows, benchmark against industry standards, or do a monthly flow review. Also trigger when someone mentions "flow performance", "flow metrics", "email analytics", "flow review", "what's working", "underperforming flows", "open rates", "conversion rates", "revenue per recipient", or "monthly review".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Flow Performance Reviewer

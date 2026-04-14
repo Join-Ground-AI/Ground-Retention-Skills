@@ -1,11 +1,12 @@
 ---
 name: abandonment-flow-suite
-description: >
-  Build coordinated cart, browse, and checkout abandonment flows as a system for DTC ecommerce brands.
-  Use this skill when someone wants to build abandonment flows, optimize cart recovery, reduce checkout
-  drop-off, recover browse sessions, or coordinate their abandonment automations. Also trigger when
-  someone mentions "cart abandonment", "abandoned cart", "browse abandonment", "checkout abandonment",
-  "cart recovery", "abandoned checkout", "cart emails", or "recovery flow".
+description: Build coordinated cart, browse, and checkout abandonment flows as a system for DTC ecommerce brands. Use this skill when someone wants to build abandonment flows, optimize cart recovery, reduce checkout drop-off, recover browse sessions, or coordinate their abandonment automations. Also trigger when someone mentions "cart abandonment", "abandoned cart", "browse abandonment", "checkout abandonment", "cart recovery", "abandoned checkout", "cart emails", or "recovery flow".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Abandonment Flow Suite

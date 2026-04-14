@@ -1,11 +1,12 @@
 ---
 name: retention-dashboard-reporting
-description: >
-  Build retention KPI frameworks and reporting templates for DTC ecommerce brands. Use this skill when
-  someone wants to set up retention metrics, build a dashboard, create a monthly report, track LTV,
-  measure repeat purchase rate, or present retention results to leadership. Also trigger when someone
-  mentions "retention metrics", "retention dashboard", "retention report", "LTV", "lifetime value",
-  "repeat purchase rate", "cohort analysis", "retention KPIs", "monthly report", or "executive summary".
+description: Build retention KPI frameworks and reporting templates for DTC ecommerce brands. Use this skill when someone wants to set up retention metrics, build a dashboard, create a monthly report, track LTV, measure repeat purchase rate, or present retention results to leadership. Also trigger when someone mentions "retention metrics", "retention dashboard", "retention report", "LTV", "lifetime value", "repeat purchase rate", "cohort analysis", "retention KPIs", "monthly report", or "executive summary".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Retention Dashboard & Reporting

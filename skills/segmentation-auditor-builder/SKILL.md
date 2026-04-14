@@ -1,11 +1,12 @@
 ---
 name: segmentation-auditor-builder
-description: >
-  Audit and build customer segments for DTC ecommerce email and SMS programs. Use this skill when
-  someone wants to review their segments, build new segments, improve personalization, create RFM
-  segments, set up engagement tiers, or fix their targeting. Also trigger when someone mentions
-  "segmentation", "segments", "RFM", "engagement tiers", "customer segments", "audience segments",
-  "list segmentation", "Klaviyo segments", "targeting", or "suppression list".
+description: Audit and build customer segments for DTC ecommerce email and SMS programs. Use this skill when someone wants to review their segments, build new segments, improve personalization, create RFM segments, set up engagement tiers, or fix their targeting. Also trigger when someone mentions "segmentation", "segments", "RFM", "engagement tiers", "customer segments", "audience segments", "list segmentation", "Klaviyo segments", "targeting", or "suppression list".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Segmentation Auditor & Builder

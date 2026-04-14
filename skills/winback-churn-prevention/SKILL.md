@@ -1,11 +1,12 @@
 ---
 name: winback-churn-prevention
-description: >
-  Build winback flows and churn prevention strategies for DTC ecommerce brands. Use this skill when
-  someone wants to reduce churn, recover lapsed customers, build a winback sequence, create pre-churn
-  interventions, or design a sunset flow. Also trigger when someone mentions "winback", "win back",
-  "churn", "churn prevention", "lapsed customers", "re-engagement", "customer reactivation",
-  "we miss you", "sunset flow", or "reducing churn".
+description: Build winback flows and churn prevention strategies for DTC ecommerce brands. Use this skill when someone wants to reduce churn, recover lapsed customers, build a winback sequence, create pre-churn interventions, or design a sunset flow. Also trigger when someone mentions "winback", "win back", "churn", "churn prevention", "lapsed customers", "re-engagement", "customer reactivation", "we miss you", "sunset flow", or "reducing churn".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Winback & Churn Prevention Strategist

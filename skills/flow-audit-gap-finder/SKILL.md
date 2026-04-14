@@ -1,11 +1,12 @@
 ---
 name: flow-audit-gap-finder
-description: >
-  Analyze current sms/email flows across acquisition, retention and abandonment for DTC ecommerce brands.
-  Use this skill when someone wants to audit their email flows, find missing automations, check what
-  flows they should have, identify gaps in their Klaviyo or Attentive setup, or benchmark their
-  retention program. Also trigger when someone mentions "flow audit", "email audit", "SMS audit",
-  "missing flows", "what flows do I need", "retention audit", "Klaviyo audit", or "lifecycle audit".
+description: Analyze current sms/email flows across acquisition, retention and abandonment for DTC ecommerce brands. Use this skill when someone wants to audit their email flows, find missing automations, check what flows they should have, identify gaps in their Klaviyo or Attentive setup, or benchmark their retention program. Also trigger when someone mentions "flow audit", "email audit", "SMS audit", "missing flows", "what flows do I need", "retention audit", "Klaviyo audit", or "lifecycle audit".
+metadata:
+  version: 1.0.0
+  license: MIT
+  author:
+    name: Ground
+    url: https://joinground.com
 ---
 
 # Flow Audit & Gap Finder
