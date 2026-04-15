@@ -1,18 +1,18 @@
 {
-  "name": "Ground-Retention-Skills",
+  "name": "ground-retention",
   "owner": {
     "name": "Ground",
     "url": "https://joinground.com"
   },
   "metadata": {
-    "description": "AI-powered email & SMS retention workflows for DTC and ecommerce teams by Ground",
+    "description": "AI-powered email & SMS retention workflows for DTC and ecommerce teams — flow auditing, segmentation, abandonment recovery, winback, SMS strategy, campaign planning, and performance optimization",
     "version": "1.0.0",
     "repository": "https://github.com/Join-Ground-AI/Ground-Retention-Skills"
   },
   "plugins": [
     {
-      "name": "Ground-Retention-Skills",
-      "description": "13 AI workflow systems for email/SMS flow auditing, segmentation, abandonment recovery, winback, SMS strategy, campaign planning, and performance optimization.",
+      "name": "ground-retention-skills",
+      "description": "13 AI workflow systems for DTC and ecommerce retention teams: email/SMS flow auditing and building, welcome series optimization, coordinated abandonment recovery, segmentation and personalization, customer journey mapping, flow performance reviews, deliverability auditing, winback and churn prevention, campaign calendar planning, SMS strategy and TCPA compliance, and retention dashboards with cohort analysis.",
       "source": "./",
       "strict": false,
       "skills": [
